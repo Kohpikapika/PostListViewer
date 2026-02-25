@@ -6,6 +6,7 @@ and displays them as a list.
 - Fetch data from public API
 - Loading and error handling
 - Render list items
+- Client-side pagination (10 items per page)
 
 ## Why
 To practice working with APIs and asynchronous JavaScript.
@@ -16,5 +17,4 @@ To practice working with APIs and asynchronous JavaScript.
 - JavaScript (Fetch API)
 
 ## Next
-- Add pagination
 - Add search by title
